@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="marginValue">1dp</dimen>
+    <dimen name="textSize">20sp</dimen>
+    <dimen name="textViewSize">36sp</dimen>
+    <dimen name="textClearSize">15sp</dimen>
+</resources>
